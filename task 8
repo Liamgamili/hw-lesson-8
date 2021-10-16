@@ -1,0 +1,7 @@
+shorot = int(input('enter shora:'))
+amodot = int(input('enter amodot:'))
+for i in range(shorot):
+    for d in range(amodot):
+        print("*", end=" ")
+
+    print()
